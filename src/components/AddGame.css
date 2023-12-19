@@ -1,0 +1,11 @@
+#addGame{
+    border-radius: 5%;
+    box-shadow: 5px 5px 5px 5px #000;
+    border: thin solid black;
+    padding: 5em;
+    color: green;
+}
+
+input[type='file'] {
+    /* color: transparent; */
+}
